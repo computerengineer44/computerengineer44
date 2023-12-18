@@ -13,7 +13,7 @@
 - 📫 How to reach me **bugraelbil613@gmail.com**
 
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/buğra-enhar-elbir" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buğra-enhar-elbir" style="height: 20px; width: 20px;" /></a>
 <a href="https://kaggle.com/codewriter44" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kod yazarı44" style="height: 20px; width: 20px;" /></a>
