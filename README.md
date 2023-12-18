@@ -1,14 +1,14 @@
 ![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/645/441/desktop-wallpaper-cool-anonymous-hackers-anonymous-pc.jpg)
-<h1 align="center">Merhaba 👋, ben Buğra Enhar Elbir</h1>
-<h3 align="center"> ;AI Güvenlik Geliştiricisi - DL ve Ml Geliştiricisi - Türkiye'den Python Geliştiricisi</h3>
+<h1 align="center">Hi 👋, ben Buğra Enhar Elbir</h1>
+<h3 align="center"> ;AI Security Developer - DL and Ml Developer - Python Developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computerengineer44&label=Profile%20views&color=0e75b6&style=flat" alt="bilgisayar mühendisi44"; /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?kullanıcı adı =bilgisayar mühendisi44quot; alt="bilgisayar mühendisi44"; /></a> </p>
 
-- 🔭 Şu anda **Yönlendirilmiş silah sistemleri (fiber lazer) analizi**
+- 🔭 Şu anda **Directed weapon systems (fiber laser) analysis**
 
-- 🌱 Şu anda öğreniyorum **Makine Öğrenimi,Siber Güvenlik**
+- 🌱 Şu anda öğreniyorum **Machine Learning,Cyber Security**
 
 - 📫 Bana nasıl ulaşırsınız **bugraelbil613@gmail.com**
 
