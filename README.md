@@ -1,6 +1,6 @@
 ![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/645/441/desktop-wallpaper-cool-anonymous-hackers-anonymous-pc.jpg)
 <h1 align="center">Hi 👋, ben Buğra Enhar Elbir</h1>
-<h3 align="center"> ;AI Security Developer - DL and Ml Developer - Python Developer from Türkiye</h3>
+<h3 align="center"> AI Security Developer - DL and Ml Developer - Python Developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computerengineer44&label=Profile%20views&color=0e75b6&style=flat" alt="bilgisayar mühendisi44"; /> </p>
 
