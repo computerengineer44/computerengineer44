@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/645/441/desktop-wallpaper-cool-anonymous-hackers-anonymous-pc.jpg)
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/645/441/desktop-wallpaper-cool-anonymous-hackers-anonymous-pc.jpg)
 <h1 align="center">Merhaba 👋, ben Buğra Enhar Elbir</h1>
 <h3 align="center"> ;AI Güvenlik Geliştiricisi - DL ve Ml Geliştiricisi - Türkiye'den Python Geliştiricisi</h3>
 
