@@ -1,4 +1,4 @@
-[![MasterHead](https://p4.wallpaperbetter.com/wallpaper/793/897/77/computer-anonymus-hacker-quotes-wallpaper-preview.jpg)
+![MasterHead([https://p4.wallpaperbetter.com/wallpaper/793/897/77/computer-anonymus-hacker-quotes-wallpaper-preview.jpg](https://e1.pxfuel.com/desktop-wallpaper/645/441/desktop-wallpaper-cool-anonymous-hackers-anonymous-pc.jpg)
 <h1 align="center">Merhaba 👋, ben Buğra Enhar Elbir</h1>
 <h3 align="center"> ;AI Güvenlik Geliştiricisi - DL ve Ml Geliştiricisi - Türkiye'den Python Geliştiricisi</h3>
 
