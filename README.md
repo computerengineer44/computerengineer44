@@ -1,3 +1,4 @@
+[![MasterHead](https://p4.wallpaperbetter.com/wallpaper/793/897/77/computer-anonymus-hacker-quotes-wallpaper-preview.jpg)
 <h1 align="center">Merhaba 👋, ben Buğra Enhar Elbir</h1>
 <h3 align="center"> ;AI Güvenlik Geliştiricisi - DL ve Ml Geliştiricisi - Türkiye'den Python Geliştiricisi</h3>
 
@@ -12,13 +13,14 @@
 - 📫 Bana nasıl ulaşırsınız **bugraelbil613@gmail.com**
 
 <h3 align="left" ;>Benimle bağlantı kurun:</h3>
+<h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https: //linkedin.com/in/www.linkedin.com/in/buğra-enhar-elbir" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buğra-enhar-elbir" yükseklik="30"; genişlik="40"; /></a>
-<a href="https://kaggle.com/codewriter44" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kod yazarı44"; yükseklik="30"; genişlik="40"; /></a>
-<a href="https://instagram.com/anormalpi̇yani̇st_" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anormalpi̇yani̇st_"; yükseklik="30"; genişlik="40"; /></a>
-<a href="https://medium.com/@bugraenhar" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bugraenhar" yükseklik="30"; genişlik="40"; /></a>
-<a href="https://www.youtube.com/c/buğra enhar elbi̇r" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="buğra enhar elbi̇r"; yükseklik="30"; genişlik="40"; /></a>
-<a href="https://www.hackerrank.com/bugraelbil613" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bugraelbil613"; yükseklik="30"; genişlik="40"; /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/buğra-enhar-elbir" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buğra-enhar-elbir" style="height: 20px; width: 20px;" /></a>
+<a href="https://kaggle.com/codewriter44" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kod yazarı44" style="height: 20px; width: 20px;" /></a>
+<a href="https://instagram.com/anormalpi̇yani̇st_" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anormalpi̇yani̇st_" style="height: 20px; width: 20px;" /></a>
+<a href="https://medium.com/@bugraenhar" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bugraenhar" style="height: 20px; width: 20px;" /></a>
+<a href="https://www.youtube.com/c/buğra enhar elbi̇r" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="buğra enhar elbi̇r" style="height: 20px; width: 20px;" /></a>
+<a href="https://www.hackerrank.com/bugraelbil613" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bugraelbil613" style="height: 20px; width: 20px;" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3> ;
